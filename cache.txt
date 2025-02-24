@@ -1,0 +1,3 @@
+222 = two dollars and twenty-two cents
+5 = five cents
+500 = five dollars
